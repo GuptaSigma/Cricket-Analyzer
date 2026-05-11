@@ -1,4 +1,4 @@
-opencv-python>=4.5.0
+streamlite
+opencv-python-headless>=4.5.0
 mediapipe>=0.9.0
 numpy>=1.21.0
-requests>=2.25.1
